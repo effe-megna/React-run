@@ -1,0 +1,10 @@
+State
+  * accept initial values
+  * can't be modified
+  * async
+
+this.setState()
+  * only way to update the State
+  * accept two parameters
+    * the newState / callback for get the prevState (must be return new state)
+    * callback invoked after the state is setted

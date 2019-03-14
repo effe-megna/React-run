@@ -1,0 +1,30 @@
+Javascript: 
+  * this
+     alone,
+     functions,
+     events
+  * function
+      anonymous,
+      arrow -> *this*
+  * class
+      inheritance
+      extends
+  * callback
+  * spread
+  * deconstructuring
+  * setInterval
+  * setTimeout
+  * ternary operator
+  * Semantic values
+  * Function responsability
+
+React:
+  1. What is React
+  2. Jsx and Babel 
+  3. function component / arrow function component
+  4. props component
+  5. PropTypes
+  6. Classname and Inline styles
+  7. Event handlers
+  8. State
+  9. Lifecycle
